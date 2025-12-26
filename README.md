@@ -1,7 +1,7 @@
 # Python TD Principal Prediction
 
 This repository contains the dataset and code used in our research paper —— `Predicting Technical Debt Principal in Python
-Projects Based on Machine Learning`. It includes the dataset of technical debt principal of 10 Python projects, specifically Colossal-AI, DeepSpeed, Gradio, Keras, PyTorch, Ray, Streamlit, Transformers, Ultralytics, YOLOv5.
+Projects Based on Machine Learning`. It includes the dataset of technical debt principal of 30 Python projects.
 
 ## Setting Up the Experiment Environment
 1. Clone the repository
